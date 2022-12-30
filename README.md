@@ -15,7 +15,7 @@ We aim to propose new political systems to represent the progress of thought as 
 
 We suggest ideas and plans to expand our understanding of democracy. To innovate in the most important field that decides the fate of individuals and nations. Using new technologies, computer science principles, and academic research, we aim to propose better democratic systems.
 
-## Our Immediate Situation: Iran’s Ongoing Revolution
+## Our Focus: Iran’s Ongoing Revolution
 
 Most of our original team members are Iranians. The current situation requires us to act quickly. The suggestion of the best democratic systems to be established in the future is vital. Our design choices will mostly be focused on the regional needs of Iran. However, most essays will still be suitable for other nationals that care about democracy and a better future.
 
@@ -41,7 +41,7 @@ Our efforts in this repository are divided into a few main categories:
 	- An extensive list of Human Rights, and Systems to Ensure Nonviolation.
 3. Short Term and Long Term Guidelines and Strategies
 
-## Introduction to IDD.
+## Introduction to Iran Digital Democracy
 
 A sister project of our team is the [Iranian Digital Democracy](link to GitHub and discord) movement. IDD aims to create digital tools and solutions for our real-world problems. The IDD movement has its own [goals](), [core beliefs](), [principles](), and challenges.
 Some IDD goals and principles are:
