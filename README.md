@@ -59,7 +59,7 @@ IDD is designed to act as the local Iranian organization tasked to implement Bet
 
 ## Furthur Collaboration
 
-All International contributions to this repo are welcome. You can submit your ideas via push requests. Our editorial guidelines can be found [here]
+All International contributions to this repo are welcome. You can submit your ideas via push requests. Our editorial guidelines can be found [here]()
 
 Also, our institutional belief is that democratic efforts need to be gathered in a central hub to encourage more productivity and division of concerns. Contributions to Iran Digitial Democracy tools, Better Democracy Movement theoric media, or joining our NewIran communities are highly appreciated.
 
