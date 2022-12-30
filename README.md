@@ -29,7 +29,7 @@ Our regional Iranian strategy is to implement a true working democracy in the ne
 
 ## This repository
 
-This repository will contain most of our new democratic system designs. Many competing systems and architectures may be worked on at the same time. Complementary information for each section may be found at [IDD GitHub page], [discord group], or multiple like-minded websites. A list of such websites and resources can be found in the democracy section of the [awesome-iran-resistance]() repo.
+This repository will contain most of our new democratic system designs. Many competing systems and architectures may be worked on at the same time. Complementary information for each section may be found at [IDD GitHub page], [discord group], or multiple like-minded websites. A list of such websites and resources can be found in the democracy section of the [Awesome Iran Resistance](https://github.com/Jiwe-Mobarez/Awesome-Iran-Resistance) repo.
 
 Our efforts in this repository are divided into a few main categories:
 
