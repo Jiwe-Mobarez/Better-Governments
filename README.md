@@ -1,6 +1,6 @@
 ﻿
 # Better Democracy Movement
-
+## What We believe
 The following repository is a collection of ideas for a better democratic system.
 
 We believe that a democratic system is the best system to address our needs as a species - Read [here](link to why democracy better) to know why. But [current democratic models](link to the Introduction page of current models) still have a lot of room to [improve](link to proposed solutions and known problems). Our political systems should enhance the quality of our political movements, not slow down our progress.
@@ -9,7 +9,7 @@ We believe that the likeliest cause of the inefficiencies of modern political sy
 
 We need to develop [better models](link to other models) for democratic systems using modern tools and science, for modern humans and their modern needs that old systems cannot efficiently address. Our current systems were designed ages ago when we had no cars, no internet, and no social media. We no longer use horses for transportation so why shouldn't we improve on the political systems of those times?
 
-## Our Aims
+## What Are Our Aims
 
 We aim to propose new political systems to represent the progress of thought as well as the advancement of technology.
 
