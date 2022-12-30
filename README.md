@@ -42,7 +42,7 @@ Our efforts in this repository may include a few main categories:
 In addition to the traditional ideas of equality, freedom, and wellfare, we believe in some other [principles]() as well.
 We are also working on two separate political systems.
 
-### Direct Democracy Model:
+### Expert Driven Democracy Model:
 
 Why vote for politicians when experts can make decisions? Here is a system designed to maximize the experts' participation in the government. Ditching the classical representative elements of democracy has many pros and cons. So expect to read a lot of find out why we have made some design decisions.  Many design choices have been inspired by fields outside of classical political discourse - e.g. Computer Sciences. Because of that, many elements of the system are yet to be tested in the real world. Many issues with this system have not been identified yet so we appreciate a fresh perspective. You can read more about this system [here]()
 
