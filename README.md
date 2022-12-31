@@ -1,9 +1,6 @@
 ﻿
 # Better Democracy Movement
 
-<img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/fist.png?raw=true">
-
-
 ## What We Believe
 The following repository is a collection of ideas for a better democratic system.
 
@@ -55,6 +52,8 @@ Why vote for politicians that represent millions of people on multitude of probl
 Inspired by the e-democracy movements in Taiwan, new democracy models that rely on digital tools to improve on classical systems are proposed here. A deliberate system with open-source voting platforms is currently being developed in-house. Read more about this model [here]()
 
 ## Introduction to Iran Digital Democracy
+
+<img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/fist.png?raw=true">
 
 A sister project of our team is the [Iranian Digital Democracy](https://github.com/irandigitaldemocracy) movement. IDD aims to create digital tools and solutions for our real-world problems. The IDD movement has its own goals, principles, and challenges.
 Some IDD goals and principles are:
