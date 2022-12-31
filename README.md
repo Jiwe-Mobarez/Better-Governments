@@ -3,7 +3,7 @@
 ## What We Believe
 The following repository is a collection of ideas for a better democratic system.
 
-We believe that a democratic system is the best system to address our needs as a species - Read [here](link to why democracy better) to know why. But [current democratic models](link to the Introduction page of current models) still have a lot of room to [improve](link to proposed solutions and known problems). Our political systems should enhance the quality of our political movements, not slow down our progress.
+We believe that a democratic system is the best system to address our needs as a species - Read [here](link to why democracy is better) to know why. But [current democratic models](link to the Introduction page of current models) still have a lot of room to [improve](link to proposed solutions and known problems). Our political systems should enhance the quality of our political movements, not slow down our progress.
 
 We believe that the likeliest cause of the inefficiencies of modern political systems is them being so old. Some of the important elements of their designs no longer stand the test of time. They fail to allocate enough resources to satisfy modern digital citizens' needs. They are a product of a time in which humans were very limited to their immediate geography. With the advent of cheaper transportation models, regional differences in people should be a much lower priority than the efficiency of the system as a whole. Federated decision-making institutions are an inefficient factor when you can take an airplane and move to a different state within 40 minutes. Limited-member congresses are a product of a time in which people didn't have enough education or daily time to decide and vote directly on their own matters. With the advent of the internet and modern statistical digital tools, we have a better understanding of the areas that need to be changed to reflect the change in the population's education level.
 
@@ -39,14 +39,14 @@ Our efforts in this repository may include a few main categories:
 3. Explanation of Goals and Principles
 3. Short Term and Long Term Guidelines and Strategies
 
-In addition to the traditional ideas of equality, freedom, and wellfare, we believe in some other [principles]() as well.
+In addition to the traditional ideas of equality, freedom, and welfare, we believe in some other [principles]() as well.
 We are also working on two separate political systems.
 
 ### Expert Driven Democracy Model:
 
-Why vote for politicians when experts can make decisions? Here is a system designed to maximize the experts' participation in the government. Ditching the classical representative elements of democracy has many pros and cons. So expect to read a lot of find out why we have made some design decisions.  Many design choices have been inspired by fields outside of classical political discourse - e.g. Computer Sciences. Because of that, many elements of the system are yet to be tested in the real world. Many issues with this system have not been identified yet so we appreciate a fresh perspective. You can read more about this system [here]()
+Why vote for politicians when experts can make decisions? Here is a system designed to maximize the experts' participation in the government. Ditching the classical representative elements of democracy has many pros and cons. So expect to read a lot to find out why we have made some design decisions.  Many design choices have been inspired by fields outside of classical political discourse - e.g. Computer Sciences. Because of that, many elements of the system are yet to be tested in the real world. Many issues with this system have not been identified yet so we appreciate a fresh perspective. You can read more about this system [here]()
 
-### Deliberate Democracy Model:
+### Deliberative Democracy Model:
 
 Inspired by the e-democracy movements in Taiwan, new democracy models that rely on digital tools to improve on classical systems are proposed here. A deliberate system with open-source voting platforms is currently being developed in-house. Read more about this model [here]()
 
@@ -60,16 +60,16 @@ Some IDD goals and principles are:
 - Digital Transparency for Government Plans and Goals
 - Protecting the Privacy and the Rights of all Citizens Digitally
 - Using New Digital Technologies for all [Governmental](https://github.com/irandigitaldemocracy/digital-democracy) Services
-- Utilising Direct [Voting](https://github.com/irandigitaldemocracy/voting-platform) Platforms for all Decisions
+- Utilizing Direct [Voting](https://github.com/irandigitaldemocracy/voting-platform) Platforms for all Decisions
 
 This repository and the Better Democracy Movement is an attempt of the IDD group at producing and gathering essays in favor of a push for change in mainstream political discourse by addressing the very own nature of political institutions as an important factor of political landscapes.
 
 IDD is designed to act as the local Iranian organization tasked to implement Better Democracy ideas. Better political systems are a universal need of all humans, but due to each nation having its own unique requirements, local, national, and regional institutions will still be needed to implement these ideas in each region separately.
 
-## Furthur Collaboration
+## Further Collaboration
 
 All International contributions to this repo are welcome. You can submit your ideas via push requests. Our editorial guidelines can be found [here]()
 
-Also, our institutional belief is that democratic efforts need to be gathered in a central hub to encourage more productivity and division of concerns. Contributions to Iran Digitial Democracy tools, Better Democracy Movement theoric media, or joining our NewIran communities are highly appreciated.
+Also, our institutional belief is that democratic efforts need to be gathered in a central hub to encourage more productivity and division of concerns. Contributions to Iran Digital Democracy tools, Better Democracy Movement theoric media, or joining our NewIran communities are highly appreciated.
 
 
