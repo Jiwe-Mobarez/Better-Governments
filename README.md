@@ -17,7 +17,7 @@ We suggest ideas and plans to expand our understanding of democracy. To innovate
 
 ## Our Focus: Iran’s Ongoing Revolution
 
-Most of our original team members are Iranian's. The current situation in Iran requires us to act quickly, and intelligently. Developing the best democratic systems to be established in the future is vital. Our design choices will mostly be focused on the regional needs of Iran. However, most essays will still be suitable for other nationals that care about democracy and a better future.
+Most of our original team members are originnaly Iranian. The current situation in Iran requires us to act quickly, and intelligently. Developing the best democratic systems to be established in the future is vital. Our design choices will mostly be focused on the regional needs of Iran. However, most essays will still be suitable for other nationals that care about democracy and a better future.
 
 Our regional Iranian strategy is to implement a true working democracy in the next government. We want to ensure these systems will be able to handle all the workload of a government still in its infancy. Especially considering all the threats looming around. The system to come needs to be professionally designed and tested if we want to gain the trust of Iranian intellectuals and ordinary people. To achieve this, our efforts will be mainly in these four areas:
 
