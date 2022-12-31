@@ -6,7 +6,11 @@ The following repository is a collection of ideas for a better democratic system
 
 We believe that a democratic system is the best system to address our needs as a species. But [current democratic models](https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Systems/Current-Models/README.md) still have a lot of room to improve. Our political systems should enhance the quality of our political movements, not slow down our progress.
 
-We believe that the likeliest cause of the inefficiencies of modern political systems is due to their age, and inability to adapt to newer techonologies. Some of the important elements of their designs no longer stand the test of time. They fail to allocate enough resources to satisfy modern digital citizens' needs. They are a product of a time in which humans were very limited to their immediate geography. With the advent of cheaper transportation, regional differences in people should be a much lower priority than the efficiency of the system as a whole. Federated decision-making institutions are an inefficient factor when you can take an airplane and move to a different state within 40 minutes. On top of this, limited-member congresses are a product of a time in which people didn't have enough education or daily time to decide and vote directly on their own matters. With the advent of the internet and modern statistical digital tools, we have a better understanding of the areas that need to be changed to reflect the change in the population's education level.
+We believe that the likeliest cause of the inefficiencies of modern political systems is due to their age, and inability to adapt to newer techonologies. Some of the important elements of their designs no longer stand the test of time. They fail to allocate enough resources to satisfy modern digital citizens' needs. They are a product of a time in which humans were very limited to their immediate geography.
+
+With the advent of cheaper transportation, regional differences in people should be a much lower priority than the efficiency of the system as a whole. Federated decision-making institutions are an inefficient factor when you can take an airplane and move to a different state within 40 minutes. On top of this, limited-member congresses are a product of a time in which people didn't have enough education or daily time to decide and vote directly on their own matters.
+
+With the advent of the internet and modern statistical digital tools, we have a better understanding of the areas that need to be changed to reflect the change in the population's education level.
 
 By developing [better models](https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Systems/README.md) for democratic systems using modern tools and science, for modern humans and their modern needs; we can make a better, more just world that old systems cannot efficiently address. Our current systems were designed ages ago when we had no cars, no internet, and no social media; and much more. We no longer use horses for transportation, printing presses for printing, or the telegraph for communication; so why shouldn't we improve on the political systems of those times?
 
@@ -39,11 +43,18 @@ Our efforts in this repository may include a few main categories:
 5. Short Term and Long Term Guidelines and Strategies
 
 In addition to the traditional ideas of equality, freedom, and wellfare, we believe in some other [principles](https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Principles/README.md) as well.
+
 We are also working on two separate political systems that can complement each other or be used as components of different political systems.
 
 ### Specialized Congresses Model:
 
-Why vote for politicians that represent millions of people on multitudes of completly different issues, when experts are more educated in their individual fields? We aim to replace tradition congresses that resolve issues in all fields, with smaller congresses limited to specialized subjects. Instead of only a few politicians being legally allowed to suggest and vote on final policies, all experts will be allowed to participate in both policy suggestion and voting processes. Since this system is still a democracy, many critisism and flaws of democracy are still significant factors to consider. Many design decisions have been made to address and reduce gridlocks, political polarizations, inefficiencies, conflicts of interest, etc. We have used our knowledge in computer science to optimize the system and provide solutions to issues. However, many elements of the system are yet to be tested in the real world. We really appreciate a fresh perspective. You can read more about this system [here](https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Systems/Expert-Driven/README.md)
+Why vote for politicians that represent millions of people on multitudes of completly different issues, when experts are more educated in their individual fields? We aim to replace tradition congresses that resolve issues in all fields, with smaller congresses limited to specialized subjects.
+
+Instead of only a few politicians being legally allowed to suggest and vote on final policies, all experts will be allowed to participate in both policy suggestion and voting processes. Since this system is still a democracy, many critisism and flaws of democracy are still significant factors to consider. Many design decisions have been made to address and reduce gridlocks, political polarizations, inefficiencies, conflicts of interest, etc.
+
+We have used our knowledge in computer science to optimize the system and provide solutions to issues. However, many elements of the system are yet to be tested in the real world. We really appreciate a fresh perspective.
+
+You can read more about this system [here](https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Systems/Expert-Driven/README.md)
 
 ### Deliberative Democracy Model:
 
