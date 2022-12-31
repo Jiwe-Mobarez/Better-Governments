@@ -46,7 +46,7 @@ We are also working on two separate political solutions aimed to fix different i
 
 ### Specialized Congresses Model:
 
-Why vote for politicians that represent millions of people on multitudes of completly different issues, when experts are more educated in their individual fields? We aim to replace tradition congresses that resolve issues in all fields, with smaller congresses limited to specialized subjects.
+Why vote for politicians that represent millions of people on multitudes of completly different issues, when experts are more educated in their individual fields? We aim to replace tradition congresses that resolve issues in all fields, with smaller congresses limited to specialized departments.
 
 Instead of only a few politicians being legally allowed to suggest and vote on final policies, all experts will be allowed to participate in both policy suggestion and voting processes. Since this system is still a democracy, many critisism and flaws of democracy are still significant factors to consider. Many design decisions have been made to address and reduce these critisisms (e.g. gridlocks, political polarizations, inefficiencies, conflicts of interest, etc.)
 
