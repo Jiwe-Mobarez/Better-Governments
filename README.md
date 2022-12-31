@@ -1,7 +1,7 @@
 ﻿
 # Better Democracy Movement
 
-![Digital Democracy](/repository/Assets/Images/General/fist.png?raw=true "Digital Democracy")
+![Digital Democracy](/Assets/Images/General/fist.png?raw=true "Digital Democracy")
 
 ## What We Believe
 The following repository is a collection of ideas for a better democratic system.
