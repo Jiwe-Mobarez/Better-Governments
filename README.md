@@ -1,7 +1,7 @@
 ﻿
 # Better Democracy Movement
 
-<img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/fist.png?raw=true" height="60" width="60" >
+<img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/fist.png?raw=true">
 
 
 ## What We Believe
