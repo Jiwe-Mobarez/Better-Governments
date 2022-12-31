@@ -1,7 +1,8 @@
 ﻿
 # Better Democracy Movement
 
-![Digital Democracy](https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/fist.png?raw=true)
+<img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/fist.png?raw=true" height="60" width="60" >
+
 
 ## What We Believe
 The following repository is a collection of ideas for a better democratic system.
