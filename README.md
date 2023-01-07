@@ -1,6 +1,8 @@
 ﻿
 # Better Democracy Movement
 
+<img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/ZanZendegiAzadi.png?raw=true">
+
 ## What We Believe
 The following repository is a collection of ideas for a better democratic system.
 
